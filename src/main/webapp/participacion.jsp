@@ -138,11 +138,11 @@ String[][] data = (String[][]) session.getAttribute("data");
 							%>
 							<div class="col-xs-12 pbot30 ptop20">
 								<div class="col-xs-12 col-md-6">
-									<a href="svlParticipacion?id=extranjero"><img
+									<a href="svlParticipacion?id=Extranjero"><img
 										src="images/icono_extranjero.jpg" class="img-responsive"></a>
 								</div>
 								<div class="col-xs-12 col-md-6">
-									<a href="svlParticipacion?id=nacional"><img
+									<a href="svlParticipacion?id=Nacional"><img
 										src="images/icono_nacional.jpg" class="img-responsive"></a>
 								</div>
 							</div>
